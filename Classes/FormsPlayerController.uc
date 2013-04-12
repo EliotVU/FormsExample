@@ -84,7 +84,6 @@ simulated function SceneInitialized()
 	// The PostProcessChain to use when the FScene is visible.
 	FormsController.Scene().MenuPostProcessChain = MenuPostProcessChain;
 
-	MainMenu.Controller = FormsController;
 	// Open any que'ing page, for example a Ready page when the a level is loaded that needs to be opened when possible.
 	if( PagesQue.Length > 0 )
 	{

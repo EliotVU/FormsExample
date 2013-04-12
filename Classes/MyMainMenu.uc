@@ -15,7 +15,7 @@ function Free()
 }
 
 /** Executed when Initialize() is called. */
-function InitializeComponent()
+protected function InitializeComponent()
 {
 	local PlayerReplicationInfo PRI;
 

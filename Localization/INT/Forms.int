@@ -3,3 +3,8 @@ OK=Ok
 YES=Yes
 NO=No
 CANCEL=Cancel
+
+[InputBox]
+BindText=Click to bind a key to this action
+CancelText=Press Escape to cancel
+UnboundText=Unbound

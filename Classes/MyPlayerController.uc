@@ -1,5 +1,5 @@
 // This is your controller. Start from this one or modify yours to extend FormsPlayerController like below.
-class MyPlayerController extends FormsPlayerController;
+class MyPlayerController extends FormsExample.FormsPlayerController;
 
 defaultproperties
 {
